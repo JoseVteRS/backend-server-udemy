@@ -1,4 +1,4 @@
-# Backeen-Server
+# Backend-Server
 
 Este es el código necesario par aestablecer el backend conectado a MongoDB usando Mongoose.
 
